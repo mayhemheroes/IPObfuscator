@@ -1,4 +1,4 @@
-project: rnshah9/mayhem-ipobfuscator
+project: ipobfuscator
 target: ip
 
 cmds:
