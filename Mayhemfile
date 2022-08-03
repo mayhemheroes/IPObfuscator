@@ -2,4 +2,4 @@ project: ipobfuscator
 target: ip
 
 cmds:
-  - cmd: /repo/ip
+  - cmd: /ip
